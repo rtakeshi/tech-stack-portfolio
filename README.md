@@ -4,6 +4,8 @@ The main goal of this project is to demonstrate the practical use of common tool
 
 ##### What I'm doing in this project?
 
+
+
 1 - Using Terraform, I create a storage that simulates a Data Lake in Azure Cloud.
 
 2 - I build a pipeline implementing ELT concepts, creating a bronze layer in the storage.
